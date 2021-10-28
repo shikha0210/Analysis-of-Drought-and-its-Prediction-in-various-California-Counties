@@ -1,1 +1,5 @@
-# Analysis-of-Drought-and-its-Prediction-in-various-California-Counties
+# Analysis-of-Drought-and-its-Prediction-in-various-California-Counties (2000-2020)
+
+Drought has been perceived as a persistent threat globally and the complex mechanism of various factors contributing in its emergence makes it more troublesome to understand. Droughts and their severity trends have been a point of concern in the USA as well, since the economic impact of droughts have been substantial, especially in parts which contributes majorly to US agriculture. California is the biggest agricultural contributor to United States with its share amounting up to 12% approximately for all of US agricultural produce. Although, according to a 20 year average, California ranks fifth on the list of highest average percentage of drought hit regions. Therefore, drought analysis and drought prediction are of crucial importance for California in order to mitigate the associated risks. However, the design of a consistent drought prediction model based on the dynamic relationship of the drought index remains a challenging task. In the present study, we trained a Voting Ensemble classifier utilizing ‘soft’ voting system and three different Random Forest models, to predict the presence of drought and also its intensity. 
+
+
