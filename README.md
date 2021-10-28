@@ -15,3 +15,10 @@ Drought has been perceived as a persistent threat globally and the complex mecha
 **Methodology Flow Chart**
 
 ![f1](https://user-images.githubusercontent.com/63223619/139320360-1034dbd8-9f7e-4e37-b347-b0957a172145.PNG)
+
+**Change in percentage of occurrences of each drought intensity label for the year 2000-2013 and 2014-2020**
+
+![f4](https://user-images.githubusercontent.com/63223619/139321058-da2fb9f3-7241-4692-bd1d-75d5e40284d4.PNG)
+
+**Frequency of each type of drought every year from 2000 to 2020**
+![f5](https://user-images.githubusercontent.com/63223619/139321170-5003c753-a553-481b-ab0c-434a8c72e3ab.PNG)
